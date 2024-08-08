@@ -1,0 +1,7 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-2-Sample-Conditional-Project\Day-2-Sample-Conditional-Project\bin\Debug\Day-2-Sample-Conditional-Project.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-2-Sample-Conditional-Project\Day-2-Sample-Conditional-Project\bin\Debug\Day-2-Sample-Conditional-Project.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-2-Sample-Conditional-Project\Day-2-Sample-Conditional-Project\bin\Debug\Day-2-Sample-Conditional-Project.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-2-Sample-Conditional-Project\Day-2-Sample-Conditional-Project\obj\Debug\Day-2-Sample-Conditional-Project.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-2-Sample-Conditional-Project\Day-2-Sample-Conditional-Project\obj\Debug\Day-2-Sample-Conditional-Project.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-2-Sample-Conditional-Project\Day-2-Sample-Conditional-Project\obj\Debug\Day-2-Sample-Conditional-Project.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-2-Sample-Conditional-Project\Day-2-Sample-Conditional-Project\obj\Debug\Day-2-Sample-Conditional-Project.pdb

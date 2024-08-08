@@ -1,0 +1,7 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\NumberAnalyzerLab.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\NumberAnalyzerLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\NumberAnalyzerLab\NumberAnalyzerLab\bin\Debug\NumberAnalyzerLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\NumberAnalyzerLab.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\NumberAnalyzerLab.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\NumberAnalyzerLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\NumberAnalyzerLab\NumberAnalyzerLab\obj\Debug\NumberAnalyzerLab.pdb
