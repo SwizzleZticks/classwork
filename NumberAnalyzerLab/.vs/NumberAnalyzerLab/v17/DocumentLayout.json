@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\classwork\\NumberAnalyzerLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E28FED4-26AC-47B6-8339-1268240557F0}|NumberAnalyzerLab\\NumberAnalyzerLab.csproj|c:\\users\\josh\\onedrive\\desktop\\workspace\\classwork\\numberanalyzerlab\\numberanalyzerlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E28FED4-26AC-47B6-8339-1268240557F0}|NumberAnalyzerLab\\NumberAnalyzerLab.csproj|solutionrelative:numberanalyzerlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\classwork\\NumberAnalyzerLab\\NumberAnalyzerLab\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NumberAnalyzerLab\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "NumberAnalyzerLab\\Program.cs",
               "ToolTip": "C:\\Users\\Josh\\OneDrive\\Desktop\\workspace\\classwork\\NumberAnalyzerLab\\NumberAnalyzerLab\\Program.cs",
               "RelativeToolTip": "NumberAnalyzerLab\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCYAAACBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T01:36:06.14Z",
               "EditorCaption": ""

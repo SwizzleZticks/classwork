@@ -36,6 +36,7 @@ namespace NumberAnalyzerLab
                 if ((userInput % 2 == 0) && (userInput >= 2 && userInput <= 24)) Console.WriteLine($"{userName}, that number is even and less than 25.");
                 if ((userInput % 2 == 0) && (userInput >= 26 && userInput <= 60)) Console.WriteLine($"{userName}, that number is even and between 26 and 60 inclusive.");
                 if (userInput % 2 == 0 && userInput > 60) Console.WriteLine($"{userName}, that number is even and greater than 60.");
+                if (userInput % 2 != 0 && userInput > 60) Console.WriteLine($"{userName}, that number is odd and greater than 60.");
 
                 Console.WriteLine();
                 Console.WriteLine("Do you want to stop the program y/n: ");
