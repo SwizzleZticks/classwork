@@ -1,0 +1,7 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\BasicLoopsLab\BasicLoopsLab\bin\Debug\BasicLoopsLab.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\BasicLoopsLab\BasicLoopsLab\bin\Debug\BasicLoopsLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\BasicLoopsLab\BasicLoopsLab\bin\Debug\BasicLoopsLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\BasicLoopsLab\BasicLoopsLab\obj\Debug\BasicLoopsLab.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\BasicLoopsLab\BasicLoopsLab\obj\Debug\BasicLoopsLab.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\BasicLoopsLab\BasicLoopsLab\obj\Debug\BasicLoopsLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\BasicLoopsLab\BasicLoopsLab\obj\Debug\BasicLoopsLab.pdb

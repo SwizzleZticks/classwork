@@ -1,0 +1,7 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-3-Loop-Examples\Day-3-Loop-Examples\bin\Debug\Day-3-Loop-Examples.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-3-Loop-Examples\Day-3-Loop-Examples\bin\Debug\Day-3-Loop-Examples.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-3-Loop-Examples\Day-3-Loop-Examples\bin\Debug\Day-3-Loop-Examples.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-3-Loop-Examples\Day-3-Loop-Examples\obj\Debug\Day-3-Loop-Examples.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-3-Loop-Examples\Day-3-Loop-Examples\obj\Debug\Day-3-Loop-Examples.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-3-Loop-Examples\Day-3-Loop-Examples\obj\Debug\Day-3-Loop-Examples.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Day-3-Loop-Examples\Day-3-Loop-Examples\obj\Debug\Day-3-Loop-Examples.pdb
